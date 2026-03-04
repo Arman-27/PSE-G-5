@@ -5,7 +5,7 @@ The App supports the goal of Good Health and Well-being
 Team members
 
 Mohsin Aziz Choudhury - Scrum Master
-Ibrahim Al Helou - Trello Admin
+Ibrahim Al Helou - Requirements Lead
 Omar Aldenar - Prototype designer
 Aman - Prototype designer
 Abishek Suresh - UX Designer
