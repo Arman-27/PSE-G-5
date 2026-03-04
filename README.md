@@ -24,7 +24,7 @@ role- test Coordinator
 
 Project Goal
 
-The goal of our project is to create a fitness app which is designed help individuals embarking on their health journey. This app is built with usability and accessibility in mind, meaning that regardless of their fitness level, people can still use it and benefit from it.
+The goal of our project is to create a fitness app, this is designed help individuals embarking on their health journey. This app is built with usability and accessibility in mind, meaning that regardless of their fitness level, people can still use it and benefit from it.
 
 Who it helps
 
