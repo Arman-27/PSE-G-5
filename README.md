@@ -4,12 +4,23 @@ The App supports the goal of Good Health and Well-being
 
 Team members
 
-Mohsin Aziz Choudhury - Scrum Master
-Ibrahim Al Helou - Requirements Lead
-Omar Aldenar - Prototype designer
-Aman - Prototype designer
-Abishek Suresh - UX Designer
-Jovin Shija Lupi - test Coordinator
+Mohsin Aziz Choudhury, student id- 0391220
+role - Scrum Master
+
+Ibrahim Al Helou, student id - 0391540
+role - Requirements Lead
+
+Omar Aldenar, student id - 0389397
+role- Prototype designer
+
+Aman, student id - 0391773
+role- Prototype designer
+
+Abishek Suresh, student id - 0382882
+role- UX Designer
+
+Jovin Shija Lupi, student id - 0388883
+role- test Coordinator
 
 Project Goal
 
