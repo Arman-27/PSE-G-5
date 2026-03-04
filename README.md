@@ -21,5 +21,8 @@ The app is designed for a range of users, such as students who while keeping up 
 
 Overview
 
+In this project, we proceeded by these steps:- plan, design, build and test a program. For this particular scenario we are constructing a fitness app. Our vision is to spread the knowledge of fitness to the world like missionaries. Our mission is to aid those who are willing to join the world of fitness and assist them in their personal and professional journeys. Our major customers are adults aged 18-49 years old, predominantly non-experienced lifters who are looking to enhance their ahtleticism, looks or health. 
+
+
 
 [Click here to view the Interactive Prototype](https://www.canva.com/design/DAHC4_kspPg/qxpcWVNYzMVD7_7wHWLDuw/edit?utm_content=DAHC4_kspPg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
