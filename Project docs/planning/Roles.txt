@@ -2,36 +2,32 @@
 
 Tasks
 
--Facilitates Sprint           
--Planning, Reviews       
+-Facilitates Sprint,Planning, Reviews       
 -Maintains the Trello 
--Monitors the Burndown Chart weekly
 -Ensures GitHub uploads are happening regularly
 -Acts as the main communicator between team members
+-Manages the GitHub repository (README, folder structure, upload history)
 
 2. Ibrahim Alheluo - Requirements Lead
 
 Tasks
 
 -Writes User Stories and the Product Backlog
--Creates the Use Case Diagram
 -Leads the Product Vision Document (SDG 3 justification, target users, problem statement)
 -Researches health-related user needs
 
-3. Abishek Suresh - UX Designer
+3. Abishek Suresh - DIagram Designer
 
 Tasks
 
--Designs all app screens for the prototype
+-Creates the Use Case Diagram and Class Diagram
 -Organizes the /design/ folder on GitHub
 
-4. Omar Aldnenar & Aman - Prototype Builder
+4. Omar Aldnenar - Prototype Builder
 
 Tasks
 
--Uses tools like Figma, Marvel App, or Canva to create a clickable/interactive prototype
--Works from the UI/UX Designer's wireframes to build the final prototype
--Manages the GitHub repository (README, folder structure, upload history)
+-Uses a tool like Canva to create a clickable/interactive prototype
 -Ensures /final/ folder has prototype screenshots and summaries
 
 5. Jovin Lupi - Tester
